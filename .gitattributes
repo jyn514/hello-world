@@ -1,0 +1,2 @@
+reflection-2017-04-29.txt filter=lfs diff=lfs merge=lfs -text
+reflection[[:space:]]2017-09-11.md filter=lfs diff=lfs merge=lfs -text
